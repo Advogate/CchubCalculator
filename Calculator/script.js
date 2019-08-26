@@ -50,7 +50,7 @@
         oldNum = parseFloat(oldNum);
         theNum = parseFloat(theNum);
 
-        // Perform operation
+        // Perform Switch operation
         switch (operator) {
             case "plus":
                 resultNum = oldNum + theNum;
